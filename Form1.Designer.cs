@@ -42,7 +42,7 @@
             AutoSizeMode = AutoSizeMode.GrowAndShrink;
             BackgroundImage = Properties.Resources.android_chrome_192x192;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(808, 450);
             DoubleBuffered = true;
             Font = new Font("Trebuchet MS", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             Icon = (Icon)resources.GetObject("$this.Icon");
