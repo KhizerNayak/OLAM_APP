@@ -1,4 +1,4 @@
-# Ola_App
+# Olam_App
 
 Title: FareMate - Smart Ride Fare Estimation
 
